@@ -1,0 +1,7 @@
+[tool.pyright]
+include = ["src"]
+venvPath = "."
+venv = ".venv"
+
+[tool.ruff]
+line-length = 108
